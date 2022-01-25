@@ -15,7 +15,7 @@ Stucture of the project :
 WorkFlow:
 
 
-![image](https://user-images.githubusercontent.com/67537391/151039011-5d1cb235-d917-4f99-b20f-8d12f236f74d.png)
+![image](https://user-images.githubusercontent.com/67537391/151039181-605c1b40-2b2a-4921-aaee-d815fd80321a.png)
 
 
 Input of the project :
